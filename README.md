@@ -285,8 +285,6 @@ I'm open to freelance work, internships, and full-time opportunities — let's b
 
 If you find my work interesting, consider starring ⭐ this repo — it helps a lot!
 
-<img src="https://raw.githubusercontent.com/DanishCoderX/DanishCoderX/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
-
 *This repository powers my live portfolio at [danishcoderx.github.io](https://danishcoderx.github.io)*
 
 **© 2026 Daanish Saeed** · Built with 🤍 in Attock, Pakistan
