@@ -116,19 +116,6 @@ Open to Full-Time, Internship & Freelance roles
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DanishCoderX&show_icons=true&theme=dark&hide_border=true&bg_color=0a0d16&title_color=e7b768&icon_color=5fc9ff&text_color=b7bfd0" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanishCoderX&layout=compact&theme=dark&hide_border=true&bg_color=0a0d16&title_color=e7b768&text_color=b7bfd0" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanishCoderX&theme=dark&hide_border=true&background=0A0D16&ring=E7B768&fire=5FC9FF&currStreakLabel=E7B768" alt="GitHub Streak"/>
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
