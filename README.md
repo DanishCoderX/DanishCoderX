@@ -1,6 +1,8 @@
 <div align="center">
-  
-# Hi, I'm Daanish Saeed 👋
+
+<img src="profile.jpg" width="150" height="150" alt="Danish Saeed" style="border-radius:50%;object-fit:cover;" />
+
+# Hi, I'm Danish Saeed 👋
 
 ### Full-Stack Developer&nbsp;·&nbsp;Data Analyst&nbsp;·&nbsp;AI/ML Enthusiast&nbsp;·&nbsp;CV Designer
 
@@ -116,6 +118,7 @@ Open to Full-Time, Internship & Freelance roles
 
 ---
 
+
 ## 🚀 Featured Projects
 
 <table>
@@ -175,7 +178,7 @@ Smart flashcard quiz app with 150 questions across 10 topics, MCQ mode, and full
 <td width="50%" valign="top">
 
 ### 🖼️ [Wallscape](https://wallscape-one.vercel.app/)
-![In Progress](https://img.shields.io/badge/status-in_progress-e7b768?style=flat-square) `InternGrow Internship`
+![Live](https://img.shields.io/badge/status-live-4ade9a?style=flat-square) `InternGrow Internship`
 
 AI-powered quote & wallpaper generator with a Node/Express backend, AI-driven text analysis, and curated imagery.
 
@@ -184,6 +187,20 @@ AI-powered quote & wallpaper generator with a Node/Express backend, AI-driven te
 [🔗 Live Demo](https://wallscape-one.vercel.app/) · [💻 Source Code](https://github.com/DanishCoderX/wallscape)
 
 </td>
+<td width="50%" valign="top">
+
+### 💧 [Vital](https://vital-ivory-tau.vercel.app/)
+![Live](https://img.shields.io/badge/status-live-4ade9a?style=flat-square) `InternGrow Internship`
+
+Hydration-tracking mobile app with an animated SVG progress ring, JWT and Google sign-in, and an Express/MongoDB backend. Built with Expo and shipped as an installable Android APK.
+
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+[🔗 Live Demo](https://vital-ivory-tau.vercel.app/) · [💻 Source Code](https://github.com/DanishCoderX/vital)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛒 [E-Commerce Website](https://danishcoderx.github.io/DevelopersHub-1stphase-Danish-Saeed/)
@@ -196,8 +213,6 @@ Multi-page online store with product listings, cart, checkout, and login/registe
 [🔗 Live Demo](https://danishcoderx.github.io/DevelopersHub-1stphase-Danish-Saeed/) · [💻 Source Code](https://github.com/DanishCoderX/DevelopersHub-1stphase-Danish-Saeed)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 👤 [HTML-Based Multi-Portfolio](https://danishcoderx.github.io/Decodelabs-Internship-Danish-Saeed/)
@@ -210,6 +225,8 @@ Four milestone projects showcasing static design, responsive layouts, interactiv
 [🔗 Live Demo](https://danishcoderx.github.io/Decodelabs-Internship-Danish-Saeed/) · [💻 Source Code](https://github.com/DanishCoderX/Decodelabs-Internship-Danish-Saeed)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧩 AI API Generator
@@ -218,6 +235,9 @@ Four milestone projects showcasing static design, responsive layouts, interactiv
 Multi-provider system (Groq, Gemini, OpenRouter) that generates datasets, APIs, and dashboards on demand.
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -233,7 +253,8 @@ Multi-provider system (Groq, Gemini, OpenRouter) that generates datasets, APIs, 
 | Business Nexus | 🟢 Live | React, TypeScript, WebRTC | [Demo](https://nexus-alpha-sooty.vercel.app) · [Code](https://github.com/DanishCoderX/Nexus) |
 | Freelancer Project Tracker | 🟢 Live | React, Node.js, MongoDB | [Demo](https://freelancer-tracker-app.netlify.app/) · [Code](https://github.com/DanishCoderX/freelancer-tracker) |
 | Card Catalog | 🟢 Live | React 18, TypeScript, Vite | [Demo](https://flashcard-quiz-app-murex.vercel.app/) · [Code](https://github.com/DanishCoderX/flashcard-quiz-app) |
-| Wallscape | 🟡 In Progress | React, Express, AI | [Demo](https://wallscape-one.vercel.app/) · [Code](https://github.com/DanishCoderX/wallscape) |
+| Wallscape | 🟢 Live | React, Express, AI | [Demo](https://wallscape-one.vercel.app/) · [Code](https://github.com/DanishCoderX/wallscape) |
+| Vital | 🟢 Live | React Native, Expo, Express, MongoDB | [Demo](https://vital-ivory-tau.vercel.app/) · [Code](https://github.com/DanishCoderX/vital) |
 | E-Commerce Website | 🟢 Live | HTML, CSS, JavaScript | [Demo](https://danishcoderx.github.io/DevelopersHub-1stphase-Danish-Saeed/) · [Code](https://github.com/DanishCoderX/DevelopersHub-1stphase-Danish-Saeed) |
 | HTML-Based Multi-Portfolio | 🟢 Live | HTML, CSS, JavaScript | [Demo](https://danishcoderx.github.io/Decodelabs-Internship-Danish-Saeed/) · [Code](https://github.com/DanishCoderX/Decodelabs-Internship-Danish-Saeed) |
 | AI API Generator | 🔵 Academic | Node.js, Flask, React | Final Year Project |
@@ -246,7 +267,7 @@ Multi-provider system (Groq, Gemini, OpenRouter) that generates datasets, APIs, 
 
 | Period | Role | Organization | Status |
 |---|---|---|---|
-| 2026 · Ongoing | App Development Internship | InternGrow | ![Active](https://img.shields.io/badge/-active-e7b768?style=flat-square) |
+| 2026 | App Development Internship | InternGrow | ![Completed](https://img.shields.io/badge/-completed-4ade9a?style=flat-square) |
 | 2026 · 6 Weeks | Frontend Development Internship | DevelopersHub | ![Completed](https://img.shields.io/badge/-completed-4ade9a?style=flat-square) |
 | May – Jun 2026 | Frontend Development Internship | DecodeLabs | ![Completed](https://img.shields.io/badge/-completed-4ade9a?style=flat-square) |
 | 2023 – Present | Freelance Developer & Designer | Self-Employed (Fiverr & Direct Clients) | ![Active](https://img.shields.io/badge/-active-e7b768?style=flat-square) |
@@ -287,6 +308,6 @@ If you find my work interesting, consider starring ⭐ this repo — it helps a 
 
 *This repository powers my live portfolio at [danishcoderx.github.io](https://danishcoderx.github.io)*
 
-**© 2026 Daanish Saeed** · Built with 🤍 in Attock, Pakistan
+**© 2026 Danish Saeed** · Built with 🤍 in Attock, Pakistan
 
 </div>
